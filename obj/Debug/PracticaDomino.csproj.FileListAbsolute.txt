@@ -1,0 +1,13 @@
+D:\Descargas\PracticaDomino\bin\Debug\PracticaDomino.exe.config
+D:\Descargas\PracticaDomino\bin\Debug\PracticaDomino.exe
+D:\Descargas\PracticaDomino\bin\Debug\PracticaDomino.pdb
+D:\Descargas\PracticaDomino\obj\Debug\PracticaDomino.csproj.AssemblyReference.cache
+D:\Descargas\PracticaDomino\obj\Debug\Logica.Instrucciones.resources
+D:\Descargas\PracticaDomino\obj\Debug\Logica.MenuPrincipal.resources
+D:\Descargas\PracticaDomino\obj\Debug\PracticaDomino.Nombres.resources
+D:\Descargas\PracticaDomino\obj\Debug\PracticaDomino.Properties.Resources.resources
+D:\Descargas\PracticaDomino\obj\Debug\PracticaDomino.Tablero.resources
+D:\Descargas\PracticaDomino\obj\Debug\PracticaDomino.csproj.GenerateResource.cache
+D:\Descargas\PracticaDomino\obj\Debug\PracticaDomino.csproj.CoreCompileInputs.cache
+D:\Descargas\PracticaDomino\obj\Debug\PracticaDomino.exe
+D:\Descargas\PracticaDomino\obj\Debug\PracticaDomino.pdb
